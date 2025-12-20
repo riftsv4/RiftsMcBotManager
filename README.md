@@ -1,5 +1,5 @@
 Current Release:
-https://github.com/riftsv4/RiftsMcBotManager/releases/tag/v1.0
+[https://github.com/riftsv4/RiftsMcBotManager/releases/tag/v1.0](https://github.com/riftsv4/RiftsMcBotManager/releases/tag/v1.1)
 
 ```
 __________.__  _____  __         __________        __     _____                                             
@@ -33,5 +33,6 @@ __________.__.__  .__
  |______  /__|____/____/ ____|/ ____|                                                                       
         \/             \/     \/                                                                            
 ```
+
 
 
